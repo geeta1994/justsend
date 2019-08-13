@@ -1,0 +1,40 @@
+.input_1 {
+  background-color: orange;
+  padding: 20px 100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 6px 10px;
+  cursor: pointer;
+  border-radius:15px;
+  }
+  
+.input_2 {
+  background-color: green;
+  padding: 20px 100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 6px 10px;
+  cursor: pointer;
+  border-radius:15px;
+}
+
+a{
+  text-decoration: none;
+  color:white;
+}
+
+.main{
+  position: absolute;
+  border:1px solid black;
+  width: 400px;
+  padding: 40px;
+  box-shadow: 0 15px 25px  rgba(0,0,0,0.5);
+  border-radius: 15px;
+}
+
+/*registration*/
+
